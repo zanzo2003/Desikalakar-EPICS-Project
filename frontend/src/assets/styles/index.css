@@ -1,3 +1,4 @@
+
 main {
   min-height: 80vh;
 }
@@ -53,6 +54,13 @@ table th {
 }
 
 #logo{
-  width: 200px;
-  height: 150px;
+  width: 50px;
+  height: 50;
+}
+footer{
+  background-color: rgb(142, 205, 142);
+  color: white;
+}
+header{
+  background-color: rgb(251, 171, 80);
 }

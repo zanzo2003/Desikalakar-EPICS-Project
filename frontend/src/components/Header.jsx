@@ -1,16 +1,17 @@
 import { Navbar, Nav, Container } from 'react-bootstrap';
-import { FaShoppingCart, FaUser, FaHome } from 'react-icons/fa';
+import { FaShoppingCart, FaUser } from 'react-icons/fa';
 import { FaShoppingBag } from "react-icons/fa";
+import logo from '../assets/logo.png';
 
 import React from 'react'
 
 function Header() {
   return (
     <header>
-        <Navbar bg='dark' variant='dark' expand='md' collapseOnSelect>
+        <Navbar  variant='dark' expand='md' collapseOnSelect>
             <Container>
                 <Navbar.Brand href="/home">
-                    <FaHome/>
+                <img src={logo} alt='DesiKalakar' id='logo'/>
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls='basic-navbar-nav' />
                <Navbar.Collapse id='basic-navbar-nav'>
