@@ -7,7 +7,7 @@ const products = [
         brand: 'Artisans of Rajasthan',
         category: 'Home Decor',
         price: 499.99,
-        countInStock: 15,
+        countInStock: 0,
         rating: 4.8,
         numReview: 12
     },
