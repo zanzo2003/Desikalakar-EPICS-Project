@@ -8,16 +8,23 @@
     "start": "node backend/server.js",
     "server": "nodemon backend/server.js",
     "client": "npm start --prefix frontend",
-    "dev": "concurrently \"npm run server\" \"npm run client\""
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "data:import": "node backend/seeder.js",
+    "data:destroy": "node backend/seeder.js -d"
   },
   "author": "EPICS GRP 92",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.18.2"
+    "bcryptjs": "^2.4.3",
+    "color": "^4.2.3",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.3",
+    "start": "^5.1.0"
   },
   "devDependencies": {
     "concurrently": "^8.2.2",
     "dotenv": "^16.3.2",
-    "nodemon": "^3.0.3"
+    "nodemon": "^2.0.15",
+    "supports-color": "^9.4.0"
   }
 }

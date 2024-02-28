@@ -1,6 +1,5 @@
 const products = [
     {
-        _id: '1',
         name: 'Handcrafted Wooden Elephant Statue',
         img: 'https://www.ethnicrajasthan.com/cdn/shop/products/ETHNICRAJASTHANDEFIGWOPLCRAN00801RSOO4_5_800x.jpg?v=1664892748',
         description: 'Beautifully carved wooden elephant statue, handmade by skilled artisans in Rajasthan, India.',
@@ -12,7 +11,6 @@ const products = [
         numReview: 12
     },
     {
-        _id: '2',
         name: 'Traditional Indian Silk Saree',
         img: 'https://5.imimg.com/data5/SELLER/Default/2021/3/PE/ZM/PE/124854257/soft-litchi-silk-500x500.jpeg',
         description: 'Elegant silk saree with intricate zari work, a traditional piece from Varanasi, India.',
@@ -24,9 +22,8 @@ const products = [
         numReview: 8
     },
     {
-        _id: '3',
         name: 'Hand-painted Ceramic Coasters Set',
-        img: 'https://www.zwende.com/cdn/shop/products/IMG_4694.jpg?v=1665491491&width=1080',
+        img: 'https://www.zwende.com/cdn/shop/products/img_4694.jpg?v=1665491491&width=1080',
         description: 'Set of four hand-painted ceramic coasters featuring vibrant Indian folk art motifs.',
         brand: 'Artistry in Clay',
         category: 'Kitchenware',
@@ -36,7 +33,6 @@ const products = [
         numReview: 6
     },
     {
-        _id: '4',
         name: 'Kashmiri Pashmina Shawl',
         img: 'https://www.pashwrap.com/cdn/shop/articles/oooo.jpg?v=1696500578',
         description: 'Luxurious handwoven Pashmina shawl from Kashmir, known for its softness and intricate design.',
@@ -48,7 +44,6 @@ const products = [
         numReview: 15
     },
     {
-        _id: '5',
         name: 'Rajasthani Block Print Cotton Bedspread',
         img: 'https://cdn.shopify.com/s/files/1/0573/2037/4449/products/913r84pKxyL._SL1500_grande.jpg?v=1622942253',
         description: 'Handcrafted cotton bedspread with traditional Rajasthani block prints, perfect for adding a touch of India to your bedroom.',
@@ -60,7 +55,6 @@ const products = [
         numReview: 10
     },
     {
-        _id: '6',
         name: 'Terracotta Warli Art Wall Hanging',
         img: 'https://www.pisarto.com/cdn/shop/products/m5GrUZyENh.jpg?v=1683976857',
         description: 'Intricately crafted terracotta wall hanging featuring Warli art, a tribal art form from Maharashtra, India.',
@@ -72,7 +66,6 @@ const products = [
         numReview: 7
     },
     {
-        _id: '7',
         name: 'Banarasi Brocade Silk Clutch',
         img: 'https://warpnweft.in/cdn/shop/files/AC67-Khinkab-Brocade-Red-Clutch_1000x.jpg?v=1697269190',
         description: 'Elegant Banarasi brocade silk clutch with gold zari work, perfect for special occasions.',
@@ -84,7 +77,6 @@ const products = [
         numReview: 9
     },
     {
-        _id: '8',
         name: 'Madhubani Hand-Painted Wooden Tray',
         img: 'https://ethniichic.com/wp-content/uploads/2021/10/EC-Fish-01-1.jpg',
         description: 'Hand-painted wooden tray featuring vibrant Madhubani art, a traditional art form from Bihar, India.',
@@ -96,9 +88,8 @@ const products = [
         numReview: 6
     },
     {
-        _id: '9',
         name: 'Kutch Embroidery Throw Pillow Covers Set',
-        img: 'https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/91zozWATItL._AC_UF350,350_QL80_.jpg',
+        img: 'https://m.media-amazon.com/imgs/W/MEDIAX_792452-T2/imgs/I/91zozWATItL._AC_UF350,350_QL80_.jpg',
         description: 'Set of two throw pillow covers with intricate Kutch embroidery, handmade by skilled artisans in Gujarat, India.',
         brand: 'Kutch Handicrafts',
         category: 'Home Decor',
