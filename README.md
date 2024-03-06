@@ -1,6 +1,6 @@
-# Desikalakar: Empowering Indian Artisans
+# DesiKalakaar: Empowering Indian Artisans
 
-Desikalakar is an EPICS (Engineering Projects in Community Service) project aimed at establishing a digital marketplace specifically for Indian artisans. Our goal is to empower artisans by providing them with a platform to showcase and sell their unique crafts to a global audience. We focus on less mainstream crafts like Dhokra art, Phulkari embroidery, and Channapatna toys, with the aim of preventing the extinction of these age-old practices while promoting cultural heritage.
+DesiKalakaar is an EPICS (Engineering Projects in Community Service) project aimed at establishing a digital marketplace specifically for Indian artisans. Our goal is to empower artisans by providing them with a platform to showcase and sell their unique crafts to a global audience. We focus on less mainstream crafts like Dhokra art, Phulkari embroidery, and Channapatna toys, with the aim of preventing the extinction of these age-old practices while promoting cultural heritage.
 
 ## Objectives
 - Establish a digital marketplace for Indian artisans.
@@ -9,7 +9,7 @@ Desikalakar is an EPICS (Engineering Projects in Community Service) project aime
 - Revive and preserve heritage crafts of India.
 
 ## Technologies Used
-Desikalakar is built using the MERN stack, which includes:
+DesiKalakaar is built using the MERN stack, which includes:
 - MongoDB: For database storage.
 - Express.js: For building the backend API.
 - React.js: For building the frontend user interface.
@@ -73,7 +73,7 @@ Desikalakar is built using the MERN stack, which includes:
 6. Access the application at `http://localhost:3000` in your browser.
 
 ## Contributing
-Contributions to Desikalakar are welcome! Feel free to fork the repository, make changes, and submit pull requests.
+Contributions to DesiKalakaar are welcome! Feel free to fork the repository, make changes, and submit pull requests.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
