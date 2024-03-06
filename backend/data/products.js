@@ -23,7 +23,7 @@ const products = [
     },
     {
         name: 'Hand-painted Ceramic Coasters Set',
-        img: 'https://www.zwende.com/cdn/shop/products/img_4694.jpg?v=1665491491&width=1080',
+        img: 'https://homesbykikkli.com/cdn/shop/products/9f1e74c9-473b-4ed2-b885-a9e9b303a2be_800x800.png?v=1604378431',
         description: 'Set of four hand-painted ceramic coasters featuring vibrant Indian folk art motifs.',
         brand: 'Artistry in Clay',
         category: 'Kitchenware',
@@ -89,7 +89,7 @@ const products = [
     },
     {
         name: 'Kutch Embroidery Throw Pillow Covers Set',
-        img: 'https://m.media-amazon.com/imgs/W/MEDIAX_792452-T2/imgs/I/91zozWATItL._AC_UF350,350_QL80_.jpg',
+        img: 'https://static-01.daraz.pk/p/573011fdcd0cacfa4c1fb7afa3e3cd89.jpg_750x750.jpg_.webp',
         description: 'Set of two throw pillow covers with intricate Kutch embroidery, handmade by skilled artisans in Gujarat, India.',
         brand: 'Kutch Handicrafts',
         category: 'Home Decor',
