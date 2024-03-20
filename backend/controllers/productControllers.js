@@ -15,12 +15,13 @@ const getProducts = asyncHandler(async (req, res) => {
 // @access  Public
 
 const getProductById = asyncHandler(async (req, res) => {
-    const product = Product.find((p)=>p._id === req.params.id);
+    console.log(req.params.id);
+    const product = await Product.findById(req.params.id);
 
     if (product){
-       return res.json(product);
+        return res.json(product);
     } else{
-    res .status(404);
+        res.status(404);
         throw new Error('Product not found');
     }
 });
