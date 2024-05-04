@@ -79,18 +79,12 @@ const Header = () => {
                 </>
               ) : (
                 <LinkContainer to='/login'>
-                  <Nav.Link>
+                  <Nav.Link href="/login">
                     <FaUser /> Sign In
                   </Nav.Link>
                 </LinkContainer>
               )}
 
-              <LinkContainer to="/login">
-                <Nav.Link href="/login">
-                  <FaUser />
-                  Sign In
-                </Nav.Link>
-              </LinkContainer>
               
             </Nav>
           </Navbar.Collapse>
