@@ -76,6 +76,6 @@ DesiKalakaar is built using the MERN stack, which includes:
 Contributions to DesiKalakaar are welcome! Feel free to fork the repository, make changes, and submit pull requests.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.txt).
 
 For any queries or concerns, please contact the project maintainers.
